@@ -2,11 +2,11 @@
 
 This is a simple todo app created using HTML, CSS, and JavaScript. It allows users to manage their tasks by adding new todos, marking them as completed, and deleting them.
 
-![todo main page](todo.png)
-
+<img width="960" alt="image" src="https://github.com/sakshigangwani/To-Do-List/assets/125336651/43bee8ab-7cca-4b7b-820e-bd0469ce9513">
 
 ## Features
 **Add Todo:** Users can add new todos by typing in the input field and pressing Enter or clicking the "Add" button.
+<img width="960" alt="image" src="https://github.com/sakshigangwani/To-Do-List/assets/125336651/2d89d9b6-c78f-4b24-85b1-4e5e92ed1dea">
 
 **Mark as Completed:** Users can mark a todo as completed by clicking on it. Completed todos are visually distinguished from active todos.
 
